@@ -34,7 +34,8 @@ README.md            // 项目描述
 ```
 
 ## 效果
-![](./img/demo.png)
+
+![demo](./img/demo.png)
 
 参考链接：
 
